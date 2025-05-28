@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 💞️ I love collaborating on **small projects** to help newcomers — or jumping into **big projects** to explore and share new concepts.
 - 📫 You can reach me at **albiolsafontalejandro@gmail.com**.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a cat named **Xoriset** (which means "little chorizo" in Valencian)!
+- ⚡ Fun fact: I have a cat named **Xoriset** ("little chorizo" in Valencian) because she loves to steal chorizos from the kitchen!
 
 Thanks for stopping by! Feel free to connect, contribute, or just say hello 😄
 
