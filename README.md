@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20I'm%20Alejandro&fontAlign=40&fontSize=40&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer+%7C+Clean+Code+Enthusiast;Always+learning+something+new!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Clean+Code+Enthusiast;Always+learning+something+new!" />
 </p>
 
 # 👋 Hi there! I'm Alejandro
