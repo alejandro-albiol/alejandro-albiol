@@ -37,31 +37,29 @@ Welcome to my GitHub profile! I'm a Computer Engineering Student passionate abou
 ---
 
 ## 🛠️ Frameworks & Tools
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Chi](https://img.shields.io/badge/Chi-Go%20Web%20Framework-00ADD8?style=flat&logo=go&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=flat&logo=fastapi&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 🗄️ Databases & Cloud
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
 ## 📡 IoT & Networking
-
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspbian-FF4500?style=flat&logo=raspberrypi&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-000000?style=flat&logo=thethingsnetwork&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=flat&logo=eclipsemosquitto&logoColor=white)
+
 
 ---
 
